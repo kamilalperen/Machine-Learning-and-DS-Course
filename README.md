@@ -6,10 +6,10 @@ Dieses Repository enthält meine Arbeiten zu den Bibliotheken des Maschinenlerne
 
 Neben der Python-Datei befinden sich in dem Ordner für Datenanalyse und Visualisierung meine Arbeiten zu den folgenden Bibliotheken:
 
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
+- **NumPy**
+- **Pandas**
+- **Matplotlib**
+- **Seaborn**
 
 Für jede Bibliothek habe ich separate Ordner erstellt und meine Dateien in einem organisierten Format hochgeladen. In den Dateien habe ich die Methoden, Techniken und Funktionen der jeweiligen Bibliotheken verwendet, um zu lernen. Durch verschiedene Methoden habe ich meinen Blickwinkel erweitert.
 
